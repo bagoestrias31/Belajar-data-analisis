@@ -23,5 +23,10 @@ B. Exploratory Data Analysis: Proses analisis data yang bertujuan untuk mengeksp
 
 C. Visualization and Explanatory Analysis: Visualisasi data merupakan cara dalam menyajikan data dalam bentuk visual. Explanatory analysis merupakan proses analisis data yang bertujuan untuk membagikan beberapa insight yang menarik dari sebauh data. Insight yang diperoleh dari proses explanatory akan digunakan untuk menjawab permasalahan bisnis yang dihadapi.
    * Terdapat 4 pertanyaan yang diajukan
-   * Buat visualisasi data untuk menjawab pertanyaan tersebut dengan sumbu x merupakan     independent variabel dan sumbu y merupakan dependent variabel. 
+   * Buat visualisasi data untuk menjawab pertanyaan tersebut dengan sumbu x merupakan     independent variabel dan sumbu y merupakan dependent variabel.
+
+D. Dashboard: 
+  * Siapkan dataframe yang akan digunakan
+  * Buat komponen filter pada dasbor
+  * Lengkapi dasbor dengan berbagai visualisasi data
  
