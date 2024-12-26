@@ -1,4 +1,4 @@
-# Belajar-data-analisis
+# Belajar-data-analisis dengan Python
 
 1. Buka file Belajar Analisis Data dengan Python.ipynb dan eksekusi semual sel secara sekuensial dari atas ke bawah. Flow proses dari keseluruhan proses dapat dilihat pada runtutan seperti di bawah ini.
 
